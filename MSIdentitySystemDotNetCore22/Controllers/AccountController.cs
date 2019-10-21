@@ -1,4 +1,8 @@
-﻿using System;
+﻿// I, David Scott, student number 000358671, certify that this material is my
+// class example. No other person's work has been used without due
+// acknowledgement and I have not made my class example available to anyone else.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
